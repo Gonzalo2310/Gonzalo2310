@@ -4,13 +4,14 @@
 
 <img align="center" src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/logos.gif" alt="Logos"/>
 
-### Programador Web y Desktop en la busqueda de superarse continuamente.
-### Investigador incansable con gusto por la inovaccion y la eficacia.
-### Escucho tus ideas y propuestas. Si es por trabajo contacta conmigo en Linkedln.
-<img align="center" src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/flag_english.svg" alt="English"/>
-### Web and desktop programmer in the quest to continuously improve.
-### Tireless researcher with a taste for innovation and efficiency.
-### I listen to your ideas and proposals. If it is for work, contact me at LinkedIn.
+#### Programador Web y Desktop en la busqueda de superarse continuamente.
+#### Investigador incansable con gusto por la inovaccion y la eficacia.
+#### Escucho tus ideas y propuestas. Si es por trabajo contacta conmigo en Linkedln.
+
+## English
+#### Web and desktop programmer in the quest to continuously improve.
+#### Tireless researcher with a taste for innovation and efficiency.
+#### I listen to your ideas and proposals. If it is for work, contact me at LinkedIn.
 <hr>
 
 #### Artículos
@@ -26,7 +27,7 @@
 #### Videos
 * Competencia colaborativa.
 * WebAssembly
- 
+
 #### Podcasts
 * Hecho en Laravel
   * Hablamos con algunos integrantes del equipo de Laraveles, DDD y planes a futuro.
