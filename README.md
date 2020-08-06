@@ -3,7 +3,7 @@
 
 ![Logos](images/logos.gif)
 
-
+<img src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/logos.gif" alt="Logos"/>
 
 <!--
 **Gonzalo2310/Gonzalo2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
