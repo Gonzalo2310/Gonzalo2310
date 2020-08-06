@@ -1,8 +1,12 @@
 # Gonzalo Nández
-### Infogon
+## Infogon
 
 
 <img align="center" src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/logos.gif" alt="Logos"/>
+
+### Programador Web y Desktop en la busqueda de superarse continuamente.
+### Investigador incansable con gusto por la inovaccion y la eficacia.
+### Escucho tus ideas y propuestas. Si es por trabajo contacta conmigo en Linkedin.
 
 <!--
 **Gonzalo2310/Gonzalo2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
