@@ -30,7 +30,7 @@
 
 #### Podcasts
 * Hecho en Laravel
-  * Hablamos con algunos integrantes del equipo de Laraveles, DDD y planes a futuro.
+  * [Hablamos con algunos integrantes del equipo de Laraveles, DDD y planes a futuro.](https://github.com/Gonzalo2310/Gonzalo2310/blob/master/sound/Hecho%20en%20laravel%20EP%2029.mp3?raw=true)
 * Programar es una mierda
   * [Capitulo 13: Evolución de Java](https://www.youtube.com/watch?v=WVWowXYJTcQ)
   * [Session 1. Oyentes.](https://www.ivoox.com/sesion-oyentes-1-estructura-buenas-practicas-audios-mp3_rf_22971998_1.html)
