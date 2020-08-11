@@ -1,7 +1,7 @@
 # Gonzalo Nández
-## Infogon [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/linkedin.svg" alt="Linkedln" width="50px" />](https://www.linkedin.com/in/gonzalo-nandez-batista/)
+## Infogon [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/linkedin.svg" alt="Linkedln" width="50px" />](https://www.linkedin.com/in/gonzalo-nandez-batista/) [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/twitter.svg" alt="Linkedln" width="50px" />](https://twitter.com/Infogon)
 
-### Conocimientos (Knowledge) <img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/logos.gif" alt="Logos"/>
+Conocimientos (Knowledge) <img align="rigth" width=200 src="https://raw.githubusercontent.com/Gonzalo2310/Gonzalo2310/master/images/logos.gif" alt="Logos"/>
 
 #### Programador Web y Desktop en la búsqueda de superarse continuamente.
 #### Investigador incansable con gusto por la innovación y la eficacia.
