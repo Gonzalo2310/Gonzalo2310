@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="css/style.css">
 
 # Gonzalo Nández
-## Infogon
+## Infogon [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/linkedin.svg" alt="Linkedln"/>](https://www.linkedin.com/in/gonzalo-nandez-batista/)
 
 ### Conocimientos (Knowledge) <img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/logos.gif" alt="Logos"/>
 
