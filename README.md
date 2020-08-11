@@ -1,8 +1,9 @@
 # Gonzalo Nández
-## Infogon [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/linkedin.svg" alt="Linkedln" width="50px" />](https://www.linkedin.com/in/gonzalo-nandez-batista/) [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/twitter.svg" alt="Linkedln" width="50px" />](https://twitter.com/Infogon)
+## Infogon [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/linkedin.svg" alt="Linkedln" width="30px" />](https://www.linkedin.com/in/gonzalo-nandez-batista/) [<img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/twitter.svg" alt="Linkedln" width="30px" />](https://twitter.com/Infogon)
 
 <img  width=200 align ="right"  src="https://raw.githubusercontent.com/Gonzalo2310/Gonzalo2310/master/images/logos.gif" alt="Logos"/>
 
+## Español
 #### Programador Web y Desktop en la búsqueda de superarse continuamente.
 #### Investigador incansable con gusto por la innovación y la eficacia.
 #### Escucho tus ideas y propuestas. Si es por trabajo contacta conmigo en [Linkedln.](https://www.linkedin.com/in/gonzalo-nandez-batista/)
