@@ -1,8 +1,10 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+
 # Gonzalo Nández
 ## Infogon
 
-
-<img align="center" src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/logos.gif" alt="Logos"/>
+### Conocimientos (Knowledge) <img align="center"  src="https://github.com/Gonzalo2310/Gonzalo2310/blob/master/images/logos.gif" alt="Logos"/>
 
 #### Programador Web y Desktop en la búsqueda de superarse continuamente.
 #### Investigador incansable con gusto por la innovación y la eficacia.
@@ -12,6 +14,7 @@
 #### Web and desktop programmer in the quest to continuously improve.
 #### Tireless researcher with a taste for innovation and efficiency.
 #### I listen to your ideas and proposals. If it is for work, contact me at [LinkedIn.](https://www.linkedin.com/in/gonzalo-nandez-batista/)
+
 <hr>
 
 #### Artículos (Only articles in Spanish for now.)
